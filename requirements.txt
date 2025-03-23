@@ -2,3 +2,12 @@ langchain
 openai
 langchain-openai
 python-dotenv
+numexpr
+pypdf
+beautifulsoup4
+chromadb
+lark
+faiss-cpu
+pandas
+wikipedia
+crewai
